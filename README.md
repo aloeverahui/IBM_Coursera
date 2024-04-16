@@ -1,1 +1,1 @@
-# IBM_Coursera
+# IBM_Data_Analyst_Capstone_Project
