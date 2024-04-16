@@ -6,18 +6,20 @@ As a Data Analyst, you will be assisting with this initiative and have been task
 
 Your first task is to collect the top programming skills that are most in demand from various sources including:
 
-Job postings
+- Job postings
 
-Training portals
+- Training portals
 
-Surveys
+- Surveys
+
 Once you have collected enough data, you will begin analyzing the data and identify insights and trends that may include the following:
 
-What are the top programming languages in demand?
+- What are the top programming languages in demand?
 
-What are the top database skills in demand?
+- What are the top database skills in demand?
 
-What are the popular IDEs?
+- What are the popular IDEs?
+
 You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.
 
 Once this is completed, you will make that data ready for analysis using data wrangling techniques.
